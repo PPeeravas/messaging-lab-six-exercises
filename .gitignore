@@ -1,0 +1,26 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python-generated cache and tooling files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local experiment state (generated when running the exercises)
+*.db
+*.sqlite
+*.sqlite3
+
+# Local secrets and environment overrides
+.env
+.env.*
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

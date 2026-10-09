@@ -1,0 +1,7 @@
+{"timestamp": "2026-10-09T17:00:43.884510+00:00", "kind": "assigned", "consumer": "C1", "group": "lab.ex5.keyed1", "partitions": [0, 1, 2]}
+{"timestamp": "2026-10-09T17:00:46.911063+00:00", "kind": "revoked", "consumer": "C1", "group": "lab.ex5.keyed1", "partitions": [0, 1, 2]}
+{"timestamp": "2026-10-09T17:00:46.921170+00:00", "kind": "assigned", "consumer": "C1", "group": "lab.ex5.keyed1", "partitions": [0, 1]}
+{"timestamp": "2026-10-09T17:00:49.959506+00:00", "kind": "revoked", "consumer": "C1", "group": "lab.ex5.keyed1", "partitions": [0, 1]}
+{"timestamp": "2026-10-09T17:00:49.981253+00:00", "kind": "assigned", "consumer": "C1", "group": "lab.ex5.keyed1", "partitions": [0]}
+{"timestamp": "2026-10-09T17:05:41.204268+00:00", "kind": "revoked", "consumer": "C1", "group": "lab.ex5.keyed1", "partitions": [0]}
+{"timestamp": "2026-10-09T17:05:41.216506+00:00", "kind": "summary", "consumer": "C1", "unique_completed": 0}

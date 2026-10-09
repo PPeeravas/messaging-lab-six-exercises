@@ -1,0 +1,22 @@
+consumer,group,kind,partitions,source_file,timestamp,unique_completed
+C1,lab.ex5.keyed1,assigned,"[0, 1, 2]",evidence/ex5-keyed-C1.jsonl,2026-10-09T17:00:43.884510+00:00,
+C1,lab.ex5.keyed1,revoked,"[0, 1, 2]",evidence/ex5-keyed-C1.jsonl,2026-10-09T17:00:46.911063+00:00,
+C1,lab.ex5.keyed1,assigned,"[0, 1]",evidence/ex5-keyed-C1.jsonl,2026-10-09T17:00:46.921170+00:00,
+C2,lab.ex5.keyed1,assigned,[2],evidence/ex5-keyed-C2.jsonl,2026-10-09T17:00:46.921864+00:00,
+C1,lab.ex5.keyed1,revoked,"[0, 1]",evidence/ex5-keyed-C1.jsonl,2026-10-09T17:00:49.959506+00:00,
+C2,lab.ex5.keyed1,revoked,[2],evidence/ex5-keyed-C2.jsonl,2026-10-09T17:00:49.959506+00:00,
+C1,lab.ex5.keyed1,assigned,[0],evidence/ex5-keyed-C1.jsonl,2026-10-09T17:00:49.981253+00:00,
+C3,lab.ex5.keyed1,assigned,[2],evidence/ex5-keyed-C3.jsonl,2026-10-09T17:00:49.981253+00:00,
+C2,lab.ex5.keyed1,assigned,[1],evidence/ex5-keyed-C2.jsonl,2026-10-09T17:00:49.982761+00:00,
+C1,lab.ex5.keyed1,revoked,[0],evidence/ex5-keyed-C1.jsonl,2026-10-09T17:05:41.204268+00:00,
+C1,,summary,,evidence/ex5-keyed-C1.jsonl,2026-10-09T17:05:41.216506+00:00,0
+C3,lab.ex5.keyed1,revoked,[2],evidence/ex5-keyed-C3.jsonl,2026-10-09T17:05:42.778745+00:00,
+C2,lab.ex5.keyed1,revoked,[1],evidence/ex5-keyed-C2.jsonl,2026-10-09T17:05:43.345360+00:00,
+C2,lab.ex5.keyed1,assigned,"[0, 1]",evidence/ex5-keyed-C2.jsonl,2026-10-09T17:05:43.356347+00:00,
+C3,lab.ex5.keyed1,assigned,[2],evidence/ex5-keyed-C3.jsonl,2026-10-09T17:05:43.356347+00:00,
+C2,lab.ex5.keyed1,revoked,"[0, 1]",evidence/ex5-keyed-C2.jsonl,2026-10-09T17:05:45.100967+00:00,
+C2,,summary,,evidence/ex5-keyed-C2.jsonl,2026-10-09T17:05:45.102919+00:00,0
+C3,lab.ex5.keyed1,revoked,[2],evidence/ex5-keyed-C3.jsonl,2026-10-09T17:05:45.782645+00:00,
+C3,lab.ex5.keyed1,assigned,"[0, 1, 2]",evidence/ex5-keyed-C3.jsonl,2026-10-09T17:05:45.793431+00:00,
+C3,lab.ex5.keyed1,revoked,"[0, 1, 2]",evidence/ex5-keyed-C3.jsonl,2026-10-09T17:05:48.600871+00:00,
+C3,,summary,,evidence/ex5-keyed-C3.jsonl,2026-10-09T17:05:48.609397+00:00,0
